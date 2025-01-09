@@ -29,7 +29,7 @@ const Home = async() => {
         <div>
             <h3 className="text-md font-semibold text-gray-800 mb-2">
                 
-                Vedanth, You are the best person I know. And you deserve to be happy always. 
+                Bindu, You are the best person I know. And you deserve to be happy always. 
                 But if you not, If somthing bad has happened and you wanted to tell me 
                 about it I'am here. you are not alone. But if you don't want to tell me,
                 it's ok it dosen't matter. I am gonna be the same. I suppose there are things 
